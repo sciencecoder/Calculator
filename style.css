@@ -1,0 +1,35 @@
+body {
+  background-color: #993300;
+}
+ 
+#calculater {
+  background-color: grey;
+  height: 400px;
+  width: 300px;
+  position: center;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+.buttons {
+  padding: 10px;
+}
+.btn {
+  width:23%;
+  height: 50px;
+}
+
+.controls {
+  width:23%;
+  height: 50px; 
+}
+.input {
+  height: 40px;
+  margin-bottom: 10px;
+}
+.space {
+  padding: 5px 5px 3px 15px;
+}
+
+
+
